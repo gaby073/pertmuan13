@@ -1,0 +1,94 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "title": "Dasar Pemrograman",
+      "author": "Ade New",
+      "published": "2023",
+      "genre": "Pemrograman",
+      "pages": "150",
+      "cover": "https://repository.iainpare.ac.id/id/eprint/8952/1/Buku%20Dasar%20Pemrograman%20September%202023.pdf"
+    },
+    {
+      "id": "2",
+      "title": "Pengantar Sistem Informasi",
+      "author": "Erni Widarti, Joosten",
+      "published": "2023",
+      "genre": "Sistem Informasi",
+      "pages": "200",
+      "cover": "https://www.researchgate.net/publication/377153671_BUKU_AJAR_PENGANTAR_SISTEM_INFORMASI"
+    },
+    {
+      "id": "3",
+      "title": "Web Programming I",
+      "author": "Tim Penulis BSI",
+      "published": "2019",
+      "genre": "Pemrograman Web",
+      "pages": "180",
+      "cover": "https://repository.bsi.ac.id/index.php/unduh/item/242521/cover-dan-isi-lengkap-web-pro.pdf"
+    },
+    {
+      "id": "4",
+      "title": "Konsep Sistem Informasi",
+      "author": "Fithrie Soufitri",
+      "published": "2023",
+      "genre": "Sistem Informasi",
+      "pages": "220",
+      "cover": "https://ipinternasional.com/wp-content/uploads/2013/06/Fithrie-Soufitri-Buku-Ajar-Konsep-Sistem-Informasi.pdf"
+    },
+    {
+      "id": "5",
+      "title": "Sistem Informasi Manajemen",
+      "author": "Pustaka Setia",
+      "published": "2018",
+      "genre": "Manajemen Informasi",
+      "pages": "250",
+      "cover": "https://umnaw.ac.id/wp-content/uploads/2021/08/Buku-Sistem-Informasi-Manajemen.pdf"
+    },
+    {
+      "id": "6",
+      "title": "Petunjuk Lengkap Pemrograman Komputer Dengan Bahasa C",
+      "author": "Stanislaus S. Uyanto",
+      "published": "2009",
+      "genre": "Pemrograman C",
+      "pages": "300",
+      "cover": "https://www.goodreads.com/book/show/6022068-pedoman-analisis-data-dengan-spss"
+    },
+    {
+      "id": "7",
+      "title": "Belajar Python",
+      "author": "Tim Petani Kode",
+      "published": "2017",
+      "genre": "Pemrograman Python",
+      "pages": "160",
+      "cover": "https://www.petanikode.com/ebook-pemrograman/"
+    },
+    {
+      "id": "8",
+      "title": "PHP The Right Way (Bahasa Indonesia)",
+      "author": "Tim Petani Kode",
+      "published": "2017",
+      "genre": "Pemrograman PHP",
+      "pages": "140",
+      "cover": "https://www.petanikode.com/ebook-pemrograman/"
+    },
+    {
+      "id": "9",
+      "title": "MongoDB Untuk Indonesia",
+      "author": "Tim Petani Kode",
+      "published": "2017",
+      "genre": "Database NoSQL",
+      "pages": "130",
+      "cover": "https://www.petanikode.com/ebook-pemrograman/"
+    },
+    {
+      "id": "10",
+      "title": "Belajar HTML dan CSS",
+      "author": "Tim Petani Kode",
+      "published": "2017",
+      "genre": "Pemrograman Web",
+      "pages": "120",
+      "cover": "https://www.petanikode.com/ebook-pemrograman/"
+    }
+  ]
+}
